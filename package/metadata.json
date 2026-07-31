@@ -1,0 +1,22 @@
+{
+    "DTEK-hrafik": {
+        "Authors": [
+            {
+                "Name": "IamMykytko",
+                "Email": "iammykytko@gmail.com"
+            }
+        ],
+        "Category": "Environment and Weather",
+        "Description": "A widget that will help you follow the schedules of power outages in Ukraine (the project is still under development)",
+        "Description[ua]": "Віджет, який допоможе вам слідкувати за графіками відключень світла в Україні (проєкт ще в розробці)",
+        "Icon": "fcitx-remind-inactive",
+        "Id": "com.github.IamMykytko.DTEK-hrafik",
+        "Name": "DTEK-hrafik",
+        "Name[ua]": "ДТЕК-графік",
+        "Version": "0.1",
+        "Website": "https://github.com/IamMykytko/kde-plasmoid-svitlo",
+        "BugReportUrl": "https://github.com/IamMykytko/kde-plasmoid-svitlo/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
